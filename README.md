@@ -1,2 +1,2 @@
 # Brandon-Soto.LandingPage
-Página de aterrizaje para personas interadas en los recursos gratuitos de mi blog
+Página de aterrizaje para personas interesadas en los recursos gratuitos de mi blog
